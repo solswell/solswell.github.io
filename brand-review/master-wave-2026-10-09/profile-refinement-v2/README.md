@@ -1,5 +1,7 @@
 # SOLSWELL Cool Mist profile refinement v2
 
+> A later current-layer polish is available in the [v3 review package](../profile-refinement-v3/README.md). This V2 artwork remains preserved unchanged.
+
 Status: **visual review only**. This folder is not deployed or merged and does not change the website, X profile, or live branding.
 
 ## Updated full-resolution artwork

@@ -42,6 +42,8 @@ The Cool Mist candidate has now received a focused water-realism refinement with
 
 The latest candidate adds more circular breathing room while preserving the wave and candles. Review the [profile-refinement v2 package](profile-refinement-v2/README.md) for the updated full-resolution PNG, exact size tests and prior-refined/v2 comparison.
 
+The final polish candidate cleans only the luminous current ribbons for smoother large-scale edges. Review the [profile-refinement v3 package](profile-refinement-v3/README.md) for the updated PNG, zoomed current-line comparison and circular previews.
+
 ## 1. Open Swell
 
 ![Open Swell concept board](01-open-swell.png)
