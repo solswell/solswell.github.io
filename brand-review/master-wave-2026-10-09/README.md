@@ -36,6 +36,10 @@ Please review this candidate specifically for:
 
 The exact final background-edit prompt is preserved in [COOL-MIST-V8-PROMPT.md](COOL-MIST-V8-PROMPT.md). This remains a review candidate, not a live website, X, token-launch or production asset update.
 
+### Production-refinement review package
+
+The Cool Mist candidate has now received a focused water-realism refinement with exact 128px, 64px and 32px circular-crop tests plus an original/refined comparison. Review the complete [profile-refinement package](profile-refinement/README.md). This update remains review-only and must not be merged or deployed without visual approval.
+
 ## 1. Open Swell
 
 ![Open Swell concept board](01-open-swell.png)
