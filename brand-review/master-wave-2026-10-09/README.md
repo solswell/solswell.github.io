@@ -44,6 +44,8 @@ The latest candidate adds more circular breathing room while preserving the wave
 
 The final polish candidate cleans only the luminous current ribbons for smoother large-scale edges. Review the [profile-refinement v3 package](profile-refinement-v3/README.md) for the updated PNG, zoomed current-line comparison and circular previews.
 
+The latest candidate tightens the lower framing to remove excess out-of-focus foreground while preserving the wave, candles and circular buffer. Review the [profile-refinement v4 package](profile-refinement-v4/README.md).
+
 ## 1. Open Swell
 
 ![Open Swell concept board](01-open-swell.png)

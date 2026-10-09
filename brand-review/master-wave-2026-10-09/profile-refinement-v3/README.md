@@ -2,6 +2,8 @@
 
 Status: **visual review only**. This folder is not deployed or merged and does not change the website, X profile, or live branding.
 
+> A later tighter-frame adjustment is available in the [v4 review package](../profile-refinement-v4/README.md). This V3 artwork remains preserved unchanged.
+
 ## Updated profile artwork
 
 ![Polished SOLSWELL profile](solswell-cool-mist-profile-polished-v3.png)
