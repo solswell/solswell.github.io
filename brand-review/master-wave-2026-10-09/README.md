@@ -19,6 +19,23 @@ Please assess:
 
 Return a ranked recommendation with concise strengths, weaknesses and specific refinements. Do not treat any direction as approved, publish changes, generate replacement artwork, or implement a website redesign.
 
+## Focused profile refinement — current candidate
+
+The current candidate develops **Open Swell** into a square profile/token image. The natural side-view wave remains primary; an uneven sequence of translucent green candlesticks follows the rising back to imply swelling price action. Foam is intentionally limited to the breaking lip and base, while the rising back remains clean water. A quiet blue-gray mist creates separation without leaving the green/cyan/purple brand palette.
+
+Please review this candidate specifically for:
+
+- Wave-first recognition before the market reference.
+- Whether the candlestick sequence reads as rising momentum without feeling pasted on.
+- Natural foam placement and the clean rising waterline.
+- Circular-avatar and small token-icon legibility.
+- Whether the cool mist supplies enough contrast without becoming dramatic.
+- Remaining cellular or synthetic-looking water texture at full size.
+
+![Open Swell candlestick profile candidate](04-open-swell-candlestick-profile-cool-mist.png)
+
+The exact final background-edit prompt is preserved in [COOL-MIST-V8-PROMPT.md](COOL-MIST-V8-PROMPT.md). This remains a review candidate, not a live website, X, token-launch or production asset update.
+
 ## 1. Open Swell
 
 ![Open Swell concept board](01-open-swell.png)
