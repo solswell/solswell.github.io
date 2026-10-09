@@ -40,6 +40,8 @@ The exact final background-edit prompt is preserved in [COOL-MIST-V8-PROMPT.md](
 
 The Cool Mist candidate has now received a focused water-realism refinement with exact 128px, 64px and 32px circular-crop tests plus an original/refined comparison. Review the complete [profile-refinement package](profile-refinement/README.md). This update remains review-only and must not be merged or deployed without visual approval.
 
+The latest candidate adds more circular breathing room while preserving the wave and candles. Review the [profile-refinement v2 package](profile-refinement-v2/README.md) for the updated full-resolution PNG, exact size tests and prior-refined/v2 comparison.
+
 ## 1. Open Swell
 
 ![Open Swell concept board](01-open-swell.png)

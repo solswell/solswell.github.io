@@ -1,5 +1,7 @@
 # SOLSWELL Cool Mist profile refinement
 
+> A later breathing-room adjustment is available in the [v2 review package](../profile-refinement-v2/README.md). This original refinement remains preserved unchanged.
+
 Status: **visual review only**. Nothing in this folder is deployed, merged, or applied to the website, X profile, or live branding.
 
 ## Refined full-resolution artwork
