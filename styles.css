@@ -240,9 +240,8 @@ h1 span { color: var(--aqua); }
 @media(max-width:560px) { .swell-creatures { grid-template-columns:1fr; } .hero .hero-content { padding-top:115px; } }
 
 /* Final SOLSWELL integration: approved V9 banner and proposed engine/FAQ sections. */
-.hero-backdrop { position:absolute; inset:0; z-index:-3; background: url('assets/solswell-master-banner-v9-hero.png') center / cover no-repeat; opacity:.92; }
 .hero-banner-link { grid-column: 1 / -1; width:100%; transform:none; margin-top:18px; }
-.hero-banner-link img { display:block; width:100%; aspect-ratio: 1920 / 900; object-fit:cover; }
+.hero-banner-link img { display:block; width:100%; height:auto; aspect-ratio: 3840 / 1800; object-fit:contain; image-rendering:auto; }
 .hero-banner-link { order:2; }
 .swell-hero-grid > div:first-child { order:1; }
 .engine { background: linear-gradient(180deg, #071b2a 0%, #0a2938 100%); border-radius:32px; margin-block:40px; padding-inline:clamp(22px,5vw,70px); }

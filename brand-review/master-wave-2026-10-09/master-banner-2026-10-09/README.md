@@ -156,6 +156,7 @@ This targeted polish removes the star-like, blotchy green highlights from the su
 - `solswell-master-banner-v9-x-1500x500.png` — V9 exact X banner preview, 1500 × 500
 - `FOREGROUND-CURRENT-V9-PROMPT.md` — exact constrained edit prompt
 - `MIST-INTEGRATED-BARS-V8-PROMPT.md` — exact constrained edit prompt
+- `HIGH-RES-V10-PROMPT.md` — constrained high-resolution quality-pass prompt
 
 ## Review boundary
 
