@@ -56,6 +56,8 @@ The V4 refinement makes the main mist read as a ghosted S, brings the secondary 
 
 The V5 identity pass aligns the three mist bars into one parallel Solana-style slant and frames them inside the swell's inner curve. Review the V5 files in the [master-banner package](master-banner-2026-10-09/README.md).
 
+The V6 framing pass rotates the parallel bars level with the horizon and keeps the group visibly inside the swell's inner curve. Review the V6 files in the [master-banner package](master-banner-2026-10-09/README.md).
+
 ## 1. Open Swell
 
 ![Open Swell concept board](01-open-swell.png)

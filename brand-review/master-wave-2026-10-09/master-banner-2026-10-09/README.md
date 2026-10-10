@@ -65,6 +65,17 @@ This refinement uses the Solana S as a visual reference: the inner mist now cont
 | Website hero | ![V5 website hero crop](solswell-master-banner-v5-website-hero.png) |
 | X banner, exact 1500 × 500 | ![V5 X banner crop](solswell-master-banner-v5-x-1500x500.png) |
 
+## V6 — horizon-aligned inner mark
+
+![SOLSWELL master banner V6](solswell-master-banner-v6-horizon-bars.png)
+
+The V6 pass keeps the V5 bar arrangement but rotates the entire group level with the ocean horizon. The three bars remain parallel, evenly spaced and clearly framed inside the inner barrel with a visible mist buffer from the curl's rim.
+
+| Use | V6 preview |
+| --- | --- |
+| Website hero | ![V6 website hero crop](solswell-master-banner-v6-website-hero.png) |
+| X banner, exact 1500 × 500 | ![V6 X banner crop](solswell-master-banner-v6-x-1500x500.png) |
+
 ## Visual checks
 
 - Primary swell dominates the composition and preserves the V4 wave-first identity.
@@ -96,6 +107,10 @@ This refinement uses the Solana S as a visual reference: the inner mist now cont
 - `solswell-master-banner-v5-website-hero.png` — V5 website hero crop, 1920 × 900
 - `solswell-master-banner-v5-x-1500x500.png` — V5 exact X banner preview, 1500 × 500
 - `PARALLEL-BARS-V5-PROMPT.md` — exact constrained edit prompt
+- `solswell-master-banner-v6-horizon-bars.png` — horizon-aligned inner mark, 1536 × 1024
+- `solswell-master-banner-v6-website-hero.png` — V6 website hero crop, 1920 × 900
+- `solswell-master-banner-v6-x-1500x500.png` — V6 exact X banner preview, 1500 × 500
+- `HORIZON-BARS-V6-PROMPT.md` — exact constrained edit prompt
 
 ## Review boundary
 
