@@ -48,6 +48,8 @@ The latest candidate tightens the lower framing to remove excess out-of-focus fo
 
 The first master-banner candidate extends the Cool Mist identity into a wide ecosystem scene with a dominant swell, subtle distant swells and atmospheric underwater archetypes. Review the [master-banner package](master-banner-2026-10-09/README.md).
 
+The latest master-banner refinement adds natural longitudinal swell bands that run along the wave's length, following real ocean flow rather than reading as graphic stripes. Review the V2 files in the [master-banner package](master-banner-2026-10-09/README.md).
+
 ## 1. Open Swell
 
 ![Open Swell concept board](01-open-swell.png)

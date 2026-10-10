@@ -19,6 +19,17 @@ The left side and upper-left retain readable negative space for later placement 
 
 Both previews are crops/resizes from the same master PNG; no separate artwork or regeneration was used.
 
+## V2 — longitudinal swell refinement
+
+![SOLSWELL master banner V2](solswell-master-banner-v2-long-swell.png)
+
+This targeted refinement uses the original master as its source. It adds subtle, naturally irregular secondary swell bands and long water ridges that travel along the main wave's length, bend with the curl and fade into shadow. The current ribbons, rising candles, copy-safe space and atmospheric ecosystem remain intact.
+
+| Use | V2 preview |
+| --- | --- |
+| Website hero | ![V2 website hero crop](solswell-master-banner-v2-website-hero.png) |
+| X banner, exact 1500 × 500 | ![V2 X banner crop](solswell-master-banner-v2-x-1500x500.png) |
+
 ## Visual checks
 
 - Primary swell dominates the composition and preserves the V4 wave-first identity.
@@ -34,6 +45,10 @@ Both previews are crops/resizes from the same master PNG; no separate artwork or
 - `solswell-master-banner-website-hero.png` — website hero crop, 1920 × 900
 - `solswell-master-banner-x-1500x500.png` — exact X banner preview, 1500 × 500
 - `MASTER-BANNER-PROMPT.md` — exact image-generation prompt and constraints
+- `solswell-master-banner-v2-long-swell.png` — targeted longitudinal-swell refinement, 1536 × 1024
+- `solswell-master-banner-v2-website-hero.png` — V2 website hero crop, 1920 × 900
+- `solswell-master-banner-v2-x-1500x500.png` — V2 exact X banner preview, 1500 × 500
+- `LONG-SWELL-V2-PROMPT.md` — exact constrained edit prompt
 
 ## Review boundary
 
