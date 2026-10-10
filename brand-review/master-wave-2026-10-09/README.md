@@ -60,6 +60,8 @@ The V6 framing pass rotates the parallel bars level with the horizon and keeps t
 
 The V7 polish corrects the middle bar's chamfer direction and reduces the glow/prominence of both mist marks so they read as embedded water details. Review the V7 files in the [master-banner package](master-banner-2026-10-09/README.md).
 
+The V8 pass integrates the central bars into the same pale water-mist treatment as the R, keeping the internal wave visible through them instead of masking it. Review the V8 files in the [master-banner package](master-banner-2026-10-09/README.md).
+
 ## 1. Open Swell
 
 ![Open Swell concept board](01-open-swell.png)

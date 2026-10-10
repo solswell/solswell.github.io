@@ -87,6 +87,17 @@ This polish pass corrects the middle bar's end-cap/chamfer direction to match th
 | Website hero | ![V7 website hero crop](solswell-master-banner-v7-website-hero.png) |
 | X banner, exact 1500 × 500 | ![V7 X banner crop](solswell-master-banner-v7-x-1500x500.png) |
 
+## V8 — mist-integrated bars
+
+![SOLSWELL master banner V8](solswell-master-banner-v8-mist-integrated-bars.png)
+
+The V8 pass keeps the three bars visible but shifts them toward the R's pale water-mist color and translucency. The blue internal wave texture, current ribbons and curl remain visible through and behind the mark; the bars no longer read as opaque overlays.
+
+| Use | V8 preview |
+| --- | --- |
+| Website hero | ![V8 website hero crop](solswell-master-banner-v8-website-hero.png) |
+| X banner, exact 1500 × 500 | ![V8 X banner crop](solswell-master-banner-v8-x-1500x500.png) |
+
 ## Visual checks
 
 - Primary swell dominates the composition and preserves the V4 wave-first identity.
@@ -126,6 +137,10 @@ This polish pass corrects the middle bar's end-cap/chamfer direction to match th
 - `solswell-master-banner-v7-website-hero.png` — V7 website hero crop, 1920 × 900
 - `solswell-master-banner-v7-x-1500x500.png` — V7 exact X banner preview, 1500 × 500
 - `SOFT-LOGO-BARS-V7-PROMPT.md` — exact constrained edit prompt
+- `solswell-master-banner-v8-mist-integrated-bars.png` — mist-integrated bars, 1536 × 1024
+- `solswell-master-banner-v8-website-hero.png` — V8 website hero crop, 1920 × 900
+- `solswell-master-banner-v8-x-1500x500.png` — V8 exact X banner preview, 1500 × 500
+- `MIST-INTEGRATED-BARS-V8-PROMPT.md` — exact constrained edit prompt
 
 ## Review boundary
 
