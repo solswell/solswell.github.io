@@ -98,6 +98,17 @@ The V8 pass keeps the three bars visible but shifts them toward the R's pale wat
 | Website hero | ![V8 website hero crop](solswell-master-banner-v8-website-hero.png) |
 | X banner, exact 1500 × 500 | ![V8 X banner crop](solswell-master-banner-v8-x-1500x500.png) |
 
+## V9 — streamlined foreground green
+
+![SOLSWELL master banner V9](solswell-master-banner-v9-foreground-current.png)
+
+This targeted polish removes the star-like, blotchy green highlights from the surface water closest to camera and replaces them with one or two smooth, low-opacity green current traces. The dark-blue surface texture and white foam remain intact; all logo marks, candles, wave geometry and other currents are unchanged.
+
+| Use | V9 preview |
+| --- | --- |
+| Website hero | ![V9 website hero crop](solswell-master-banner-v9-website-hero.png) |
+| X banner, exact 1500 × 500 | ![V9 X banner crop](solswell-master-banner-v9-x-1500x500.png) |
+
 ## Visual checks
 
 - Primary swell dominates the composition and preserves the V4 wave-first identity.
@@ -140,6 +151,10 @@ The V8 pass keeps the three bars visible but shifts them toward the R's pale wat
 - `solswell-master-banner-v8-mist-integrated-bars.png` — mist-integrated bars, 1536 × 1024
 - `solswell-master-banner-v8-website-hero.png` — V8 website hero crop, 1920 × 900
 - `solswell-master-banner-v8-x-1500x500.png` — V8 exact X banner preview, 1500 × 500
+- `solswell-master-banner-v9-foreground-current.png` — streamlined foreground green refinement, 1536 × 1024
+- `solswell-master-banner-v9-website-hero.png` — V9 website hero crop, 1920 × 900
+- `solswell-master-banner-v9-x-1500x500.png` — V9 exact X banner preview, 1500 × 500
+- `FOREGROUND-CURRENT-V9-PROMPT.md` — exact constrained edit prompt
 - `MIST-INTEGRATED-BARS-V8-PROMPT.md` — exact constrained edit prompt
 
 ## Review boundary

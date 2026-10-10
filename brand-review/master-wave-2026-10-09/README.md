@@ -62,6 +62,8 @@ The V7 polish corrects the middle bar's chamfer direction and reduces the glow/p
 
 The V8 pass integrates the central bars into the same pale water-mist treatment as the R, keeping the internal wave visible through them instead of masking it. Review the V8 files in the [master-banner package](master-banner-2026-10-09/README.md).
 
+The V9 foreground-water pass replaces star-like green sparkles near the camera with a streamlined, subtle current presence. Review the V9 files in the [master-banner package](master-banner-2026-10-09/README.md).
+
 ## 1. Open Swell
 
 ![Open Swell concept board](01-open-swell.png)
