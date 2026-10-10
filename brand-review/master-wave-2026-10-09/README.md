@@ -46,6 +46,8 @@ The final polish candidate cleans only the luminous current ribbons for smoother
 
 The latest candidate tightens the lower framing to remove excess out-of-focus foreground while preserving the wave, candles and circular buffer. Review the [profile-refinement v4 package](profile-refinement-v4/README.md).
 
+The first master-banner candidate extends the Cool Mist identity into a wide ecosystem scene with a dominant swell, subtle distant swells and atmospheric underwater archetypes. Review the [master-banner package](master-banner-2026-10-09/README.md).
+
 ## 1. Open Swell
 
 ![Open Swell concept board](01-open-swell.png)
