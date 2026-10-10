@@ -54,6 +54,17 @@ The S and R are visual references for an independent community concept; they are
 | Website hero | ![V4 website hero crop](solswell-master-banner-v4-website-hero.png) |
 | X banner, exact 1500 × 500 | ![V4 X banner crop](solswell-master-banner-v4-x-1500x500.png) |
 
+## V5 — parallel bar framing
+
+![SOLSWELL master banner V5](solswell-master-banner-v5-parallel-bars.png)
+
+This refinement uses the Solana S as a visual reference: the inner mist now contains three clearly separated bars with one shared diagonal slant, kept parallel and framed by the swell's circular curve. The Raydium swell and its SOLSWELL-colored energy field remain unchanged.
+
+| Use | V5 preview |
+| --- | --- |
+| Website hero | ![V5 website hero crop](solswell-master-banner-v5-website-hero.png) |
+| X banner, exact 1500 × 500 | ![V5 X banner crop](solswell-master-banner-v5-x-1500x500.png) |
+
 ## Visual checks
 
 - Primary swell dominates the composition and preserves the V4 wave-first identity.
@@ -81,6 +92,10 @@ The S and R are visual references for an independent community concept; they are
 - `solswell-master-banner-v4-website-hero.png` — V4 website hero crop, 1920 × 900
 - `solswell-master-banner-v4-x-1500x500.png` — V4 exact X banner preview, 1500 × 500
 - `S-R-CHOP-V4-PROMPT.md` — exact constrained edit prompts
+- `solswell-master-banner-v5-parallel-bars.png` — parallel-bar framing refinement, 1536 × 1024
+- `solswell-master-banner-v5-website-hero.png` — V5 website hero crop, 1920 × 900
+- `solswell-master-banner-v5-x-1500x500.png` — V5 exact X banner preview, 1500 × 500
+- `PARALLEL-BARS-V5-PROMPT.md` — exact constrained edit prompt
 
 ## Review boundary
 

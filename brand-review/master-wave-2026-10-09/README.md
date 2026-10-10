@@ -54,6 +54,8 @@ The V3 composition looks down the swell's length: the main SOLANA archetype fold
 
 The V4 refinement makes the main mist read as a ghosted S, brings the secondary swell closer with its own candles and R mark, and smooths the right-hand chop. Review the V4 files in the [master-banner package](master-banner-2026-10-09/README.md).
 
+The V5 identity pass aligns the three mist bars into one parallel Solana-style slant and frames them inside the swell's inner curve. Review the V5 files in the [master-banner package](master-banner-2026-10-09/README.md).
+
 ## 1. Open Swell
 
 ![Open Swell concept board](01-open-swell.png)
