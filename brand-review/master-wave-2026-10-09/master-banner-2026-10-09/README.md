@@ -30,6 +30,17 @@ This targeted refinement uses the original master as its source. It adds subtle,
 | Website hero | ![V2 website hero crop](solswell-master-banner-v2-website-hero.png) |
 | X banner, exact 1500 × 500 | ![V2 X banner crop](solswell-master-banner-v2-x-1500x500.png) |
 
+## V3 — down-the-swell composition
+
+![SOLSWELL master banner V3](solswell-master-banner-v3-down-swell.png)
+
+This pass changes the viewpoint rather than the brand identity. The camera now looks along the swell's length; the dominant wave crashes inward farther down the line, and a smaller trailing swell follows behind it. In the central mist, a soft circular water-and-light impression contains only an ambiguous three-stripe wave glyph. This is intentionally suggestive rather than an official Solana or Raydium logo.
+
+| Use | V3 preview |
+| --- | --- |
+| Website hero | ![V3 website hero crop](solswell-master-banner-v3-website-hero.png) |
+| X banner, exact 1500 × 500 | ![V3 X banner crop](solswell-master-banner-v3-x-1500x500.png) |
+
 ## Visual checks
 
 - Primary swell dominates the composition and preserves the V4 wave-first identity.
@@ -49,6 +60,10 @@ This targeted refinement uses the original master as its source. It adds subtle,
 - `solswell-master-banner-v2-website-hero.png` — V2 website hero crop, 1920 × 900
 - `solswell-master-banner-v2-x-1500x500.png` — V2 exact X banner preview, 1500 × 500
 - `LONG-SWELL-V2-PROMPT.md` — exact constrained edit prompt
+- `solswell-master-banner-v3-down-swell.png` — down-the-swell composition, 1536 × 1024
+- `solswell-master-banner-v3-website-hero.png` — V3 website hero crop, 1920 × 900
+- `solswell-master-banner-v3-x-1500x500.png` — V3 exact X banner preview, 1500 × 500
+- `DOWN-SWELL-V3-PROMPT.md` — exact constrained edit prompt
 
 ## Review boundary
 

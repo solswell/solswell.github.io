@@ -50,6 +50,8 @@ The first master-banner candidate extends the Cool Mist identity into a wide eco
 
 The latest master-banner refinement adds natural longitudinal swell bands that run along the wave's length, following real ocean flow rather than reading as graphic stripes. Review the V2 files in the [master-banner package](master-banner-2026-10-09/README.md).
 
+The V3 composition looks down the swell's length: the main SOLANA archetype folds into an inward crash, a smaller RAYDIUM echo follows behind, and the inner mist carries only a vague non-official wave-glyph impression. Review the V3 files in the [master-banner package](master-banner-2026-10-09/README.md).
+
 ## 1. Open Swell
 
 ![Open Swell concept board](01-open-swell.png)
