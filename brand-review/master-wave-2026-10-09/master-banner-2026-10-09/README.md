@@ -41,6 +41,19 @@ This pass changes the viewpoint rather than the brand identity. The camera now l
 | Website hero | ![V3 website hero crop](solswell-master-banner-v3-website-hero.png) |
 | X banner, exact 1500 × 500 | ![V3 X banner crop](solswell-master-banner-v3-x-1500x500.png) |
 
+## V4 — S/R identity and chop polish
+
+![SOLSWELL master banner V4](solswell-master-banner-v4-s-and-r.png)
+
+This targeted pass keeps the V3 down-the-swell composition while making the mist glyph an unmistakable but ghosted S. The smaller trailing swell is closer to camera, carries its own restrained candle sequence and an atmospheric R mark, and the right-hand breaking chop is smoother and more coherent.
+
+The S and R are visual references for an independent community concept; they are softened into water and mist rather than presented as official logo lockups.
+
+| Use | V4 preview |
+| --- | --- |
+| Website hero | ![V4 website hero crop](solswell-master-banner-v4-website-hero.png) |
+| X banner, exact 1500 × 500 | ![V4 X banner crop](solswell-master-banner-v4-x-1500x500.png) |
+
 ## Visual checks
 
 - Primary swell dominates the composition and preserves the V4 wave-first identity.
@@ -64,6 +77,10 @@ This pass changes the viewpoint rather than the brand identity. The camera now l
 - `solswell-master-banner-v3-website-hero.png` — V3 website hero crop, 1920 × 900
 - `solswell-master-banner-v3-x-1500x500.png` — V3 exact X banner preview, 1500 × 500
 - `DOWN-SWELL-V3-PROMPT.md` — exact constrained edit prompt
+- `solswell-master-banner-v4-s-and-r.png` — S/R identity and chop polish, 1536 × 1024
+- `solswell-master-banner-v4-website-hero.png` — V4 website hero crop, 1920 × 900
+- `solswell-master-banner-v4-x-1500x500.png` — V4 exact X banner preview, 1500 × 500
+- `S-R-CHOP-V4-PROMPT.md` — exact constrained edit prompts
 
 ## Review boundary
 
