@@ -66,6 +66,8 @@ The V9 foreground-water pass replaces star-like green sparkles near the camera w
 
 The V12 pass is a fresh clean master regeneration, with the distant R mist reference restored and individually upright candles. Review the [V12 package](master-banner-v12-r-and-upright-candles/README.md).
 
+The V13 pass smooths the inner barrel around the three horizontal mist bars, removing the polygon-like pattern while preserving the V12 composition. Review the [V13 package](master-banner-v13-smooth-barrel/README.md).
+
 ## 1. Open Swell
 
 ![Open Swell concept board](01-open-swell.png)
