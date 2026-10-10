@@ -58,6 +58,8 @@ The V5 identity pass aligns the three mist bars into one parallel Solana-style s
 
 The V6 framing pass rotates the parallel bars level with the horizon and keeps the group visibly inside the swell's inner curve. Review the V6 files in the [master-banner package](master-banner-2026-10-09/README.md).
 
+The V7 polish corrects the middle bar's chamfer direction and reduces the glow/prominence of both mist marks so they read as embedded water details. Review the V7 files in the [master-banner package](master-banner-2026-10-09/README.md).
+
 ## 1. Open Swell
 
 ![Open Swell concept board](01-open-swell.png)

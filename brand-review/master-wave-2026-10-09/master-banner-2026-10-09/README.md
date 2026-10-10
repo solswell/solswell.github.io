@@ -76,6 +76,17 @@ The V6 pass keeps the V5 bar arrangement but rotates the entire group level with
 | Website hero | ![V6 website hero crop](solswell-master-banner-v6-website-hero.png) |
 | X banner, exact 1500 × 500 | ![V6 X banner crop](solswell-master-banner-v6-x-1500x500.png) |
 
+## V7 — softer marks and corrected middle bar
+
+![SOLSWELL master banner V7](solswell-master-banner-v7-soft-logo-bars.png)
+
+This polish pass corrects the middle bar's end-cap/chamfer direction to match the Solana-style construction and reduces the brightness, saturation and bloom of both the primary bars and the secondary R. The marks remain recognizable but sit back inside the water mist.
+
+| Use | V7 preview |
+| --- | --- |
+| Website hero | ![V7 website hero crop](solswell-master-banner-v7-website-hero.png) |
+| X banner, exact 1500 × 500 | ![V7 X banner crop](solswell-master-banner-v7-x-1500x500.png) |
+
 ## Visual checks
 
 - Primary swell dominates the composition and preserves the V4 wave-first identity.
@@ -111,6 +122,10 @@ The V6 pass keeps the V5 bar arrangement but rotates the entire group level with
 - `solswell-master-banner-v6-website-hero.png` — V6 website hero crop, 1920 × 900
 - `solswell-master-banner-v6-x-1500x500.png` — V6 exact X banner preview, 1500 × 500
 - `HORIZON-BARS-V6-PROMPT.md` — exact constrained edit prompt
+- `solswell-master-banner-v7-soft-logo-bars.png` — softened mark and corrected middle bar, 1536 × 1024
+- `solswell-master-banner-v7-website-hero.png` — V7 website hero crop, 1920 × 900
+- `solswell-master-banner-v7-x-1500x500.png` — V7 exact X banner preview, 1500 × 500
+- `SOFT-LOGO-BARS-V7-PROMPT.md` — exact constrained edit prompt
 
 ## Review boundary
 
