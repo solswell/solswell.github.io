@@ -238,3 +238,28 @@ h1 span { color: var(--aqua); }
 .swell-creatures { grid-template-columns: repeat(3,minmax(0,1fr)); }
 @media(max-width:860px) { .swell-hero-grid { grid-template-columns:1fr; padding-block:120px 60px; } .hero { height:auto; max-height:none; padding-bottom:0; } .swell-creatures { grid-template-columns:repeat(2,minmax(0,1fr)); } }
 @media(max-width:560px) { .swell-creatures { grid-template-columns:1fr; } .hero .hero-content { padding-top:115px; } }
+
+/* Final SOLSWELL integration: approved V9 banner and proposed engine/FAQ sections. */
+.hero-banner-link { grid-column: 1 / -1; width:100%; transform:none; margin-top:18px; }
+.hero-banner-link img { display:block; width:100%; height:auto; aspect-ratio: 3840 / 1800; object-fit:contain; image-rendering:auto; }
+.hero-banner-link { order:2; }
+.swell-hero-grid > div:first-child { order:1; }
+.engine { background: linear-gradient(180deg, #071b2a 0%, #0a2938 100%); border-radius:32px; margin-block:40px; padding-inline:clamp(22px,5vw,70px); }
+.engine .section-heading-row { margin-bottom:42px; }
+.engine-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:16px; }
+.engine-card { padding:26px; border:1px solid rgba(144,255,207,.2); border-radius:20px; background:rgba(255,255,255,.045); }
+.engine-card span { color:var(--aqua); font-size:10px; font-weight:900; letter-spacing:.16em; }
+.engine-card h3 { margin:18px 0 10px; font-size:clamp(23px,2.2vw,32px); line-height:1.02; letter-spacing:-.04em; }
+.engine-card p { margin:0; color:#b8d0d6; }
+.flow-diagram { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px; margin-top:18px; }
+.flow-diagram > div { padding:18px 20px; border-left:3px solid var(--aqua); border-radius:12px; background:rgba(20,241,149,.08); }
+.flow-diagram strong, .flow-diagram span { display:block; }
+.flow-diagram strong { color:#efffff; }
+.flow-diagram span { margin-top:5px; color:#a9c9d2; font-size:13px; }
+.risk-note { margin-top:20px; padding:16px 18px; border:1px solid rgba(255,128,109,.34); border-radius:12px; color:#ffd3cb; background:rgba(255,128,109,.08); font-size:14px; }
+.faq { padding-top:100px; }
+.faq-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px; }
+.faq details { padding:20px 22px; border:1px solid var(--line); border-radius:16px; background:#092432; }
+.faq summary { cursor:pointer; font-weight:850; color:#efffff; }
+.faq details p { margin:14px 0 0; color:#b8d0d6; }
+@media(max-width:860px) { .engine-grid,.faq-grid { grid-template-columns:1fr; } .flow-diagram { grid-template-columns:1fr; } .hero-banner-link { margin-top:4px; } }
