@@ -1,6 +1,6 @@
 # SOLSWELL — Project Ledger
 
-**Status:** Working baseline for review, 2026-10-11. **Not a token-launch announcement or deployment approval.**  
+**Status:** Documentation baseline prepared 2026-10-11; merged into `main` on 2026-10-13 through [PR #2](https://github.com/solswell/solswell.github.io/pull/2) (commit `b113bdad207d7a37e42aa613d4a4de63f6b2bc64`). **Not a token-launch announcement or deployment approval.**  
 **Repository:** https://github.com/solswell/solswell.github.io  
 **Public website:** https://solswell.github.io/  
 **Public X:** https://x.com/SolSwellOcean  
@@ -59,12 +59,12 @@ Nothing in this baseline approves PR #1, the most recent generated images, an X 
 | X | Draft copy/crops in PR #1; live state not checked | Verify live profile; update only after asset + copy approval |
 | Token mechanics | Proposed, financially risky, several dependencies unverified | Read-only verification of venue, pool, fee/reward and margin requirements |
 | Launch operations | Not launched | Develop launch checklist, budgets and safety disclosures; require explicit owner go/no-go |
-| Documentation | This branch introduces `PROJECT_LEDGER.md`, `ARTWORK_REGISTER.md`, `AGENTS.md` | Review and merge docs separately from artwork PR, with approval |
+| Documentation | `PROJECT_LEDGER.md`, `ARTWORK_REGISTER.md` and `AGENTS.md` merged into `main` via PR #2 on 2026-10-13 | Keep the ledger current via focused documentation PRs; no implicit approval of PR #1 website/artwork |
 
 ## 6. Immediate priorities (no implicit permission to execute)
 
 1. Review this baseline and correct any owner decisions that were misclassified.
-2. Keep docs-only baseline separate from PR #1; if approved, merge documentation independently.
+2. Keep the now-merged documentation separate from draft PR #1; review its website and artwork independently before any publication.
 3. Complete an evidence-based art inventory/provenance review before selecting a definitive master.
 4. Confirm live website Pages SHA and X account imagery before proposing updates.
 5. Verify PERPSPAD/JitoSOL/perp mechanics before promising them publicly.
